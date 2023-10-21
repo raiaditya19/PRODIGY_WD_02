@@ -59,7 +59,7 @@ body{
     color: black;
     position: relative;
     align-items: center;
-    margin-left: 590px;
+    margin-left: 600px;
     bottom: 60px;
 }
 .card{
@@ -138,4 +138,11 @@ body{
 }
 .weather{
     display: none;   
+}
+.error{
+    text-align: center;
+    margin: 60px;
+    font-size: 30px;
+    display: none;
+    font-weight: bold;
 }
